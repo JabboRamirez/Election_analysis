@@ -1,12 +1,10 @@
-# An Analysis of Kickstarter Campaigns
+# An Analysis on the Election Audit
 
-An analysis that has information and images that will help understand what is needed to have a succesful Kickstarting campaign
-using only Excel.
+An analysis that has information that will show the election audit results like who won, the votes on each county and so much more
 
 ## Overview of Project
 
-Based on the information i received throughout the module and the document of all the kickstarter data, i was able to filter specific information in order to show data in a manner where anybody can understand and see it. This data is based on Plays/theater kickstarter data mostly.
-
+Based on the information i received throughout the module and the documents, i was able to find out and print out documents that showed the election results and other important information
 
 ## Analysis of Outcomes Based on Launch Date
 
