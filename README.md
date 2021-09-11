@@ -1,34 +1,47 @@
-# An Analysis on the Election Audit
+# Election_analysis
+
+## An Analysis on the Election Audit
 
 An analysis that has information that will show the election audit results like who won, the votes on each county and so much more
 
-## Overview of Project
 
-Based on the information i received throughout the module and the documents, i was able to find out and print out documents that showed the election results and other important information
+### Overview of Project
 
-## Analysis of Outcomes Based on Launch Date
-
-
-According to the chart above, we can conclude that the most successful campaings were kickstarted in the month of may while the ones with the least success runs were in the month december meaning that summer might be best time to start a kickstarter campaign. We can also see that through the months, campaings were cancelled but at a very minimal rate meaning that in general, campaign have a better success rate than being canceled.
-
-## Analysis of Outcomes Based on Goals
+Based on the information i received throughout the module and the documents, i was able to find and print out documents that showed important information like election results, which counties had the most votes and other things
 
 
+### Election audit results
 
-Thanks to the analysis  of outcomes based on goals, i was able to find out that from the total number of all successful kickstarters campaigns(theaters/plays), the one with the most success(76% success rate) were campaigns that had a monetary goal of under 1000 dollars. In a close second, campaigns with a monetary goal between 1000 to 4999 dollars, had a success rate of an oustanding 73%. 
-Furthermore, as campaign monetary goals were increasing, the success rate was decreasing steadaly.
-### Challenges and Difficulties Encountered
+The next information will a bullet list addressing the election outcomes:
 
-I had issues mostly with the functions needed for the outcomes based on launch date. The functions were complicated to a point because of how big they were. I was able to difficulty by looking at one function and then doing it manually for every cell until i was able to get a grasp of it
+* How many votes were cast in this congressional election?
+    
+        Overall there was a total of 369711 votes that were casted during this congressional election.
 
-## Results
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+        1. The Arapahoe county casted 6.7% (24,801 votes) of the overall amount of votes.
+        2. The Jefferson county casted 10.5% (38,855 votes) of the overall amount of votes.
+        3. Last but not least, the Denver county casted an outstanding 82.8% (306,055 votes) of the overall amount of votes.
+
+* Which county had the largest number of votes?
+
+        With an outstanding participation in the election, Denver was the county with the 
+        largest amount of votes caping at 306,055 votes !!!
+
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+        1. Candidate Charles Casper received 85,213 (23%) votes.
+        2. Candidate Diana DeGette received 272,892 (73.8%) votes.
+        3. Candidate Anthony Doane received 11,606 (3.1%) votes.
+
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+        With an overwhelming win, candidate Diana Degette destroyed the election with 
+        272,892 votes which is 73.8% of the overall vote count.
 
 
-- Limitation of the Dataset
+## Summary
 
-This a data set of kickstarters from a while back, now this information may not be the same due to the fact of all the changes that have been happening around the world, things like Covid or trends in general. Furthermore, i believe the data set needed some information about the adverticement of the campaigns, im sure if there were some sort of data about the way the kickstarters were adverticed, then the success rate for theh curret kickstarter we are trying to launch would highly likely increase.
+Thanks to this script, i was able to find out a lot of information about this Elections and got overall votes per county, the election winner and more. With some modifications, this script could be used for future elections. You could add a fucntion that shows what county voted for which candidate and find out the exact number. You could also modify this script to find out how many votes one of the loosing candidates could have needed to win the election. The script is very easy to follow and can be modified to do so much more for other type of information gathering.
 
-
-- What are some other possible tables and/or graphs that we could create?
-
-We could also create a table or graph that would compare the amount of people pledged through all different types of kickstarters to have an idea how succesful plays and art is compared to others just in case there is an idea to have another campaign with a different goal in mind.                                        
