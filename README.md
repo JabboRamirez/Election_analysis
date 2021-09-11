@@ -26,12 +26,7 @@ The next information will a bullet list addressing the election outcomes:
 
 * Which county had the largest number of votes?
 
-<<<<<<< HEAD
         With an outstanding participation in the election, Denver was the county with the largest amount of votes caping at 306,055 votes !!!
-=======
-        With an outstanding participation in the election, Denver was the county with the 
-        largest amount of votes caping at 306,055 votes !!!
->>>>>>> 96c04e528ec3dbca237cba637de13a1c06e98294
 
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
@@ -41,12 +36,7 @@ The next information will a bullet list addressing the election outcomes:
 
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-<<<<<<< HEAD
         With an overwhelming win, candidate Diana Degette destroyed the election with 272,892 votes which is 73.8% of the overall vote count.
-=======
-        With an overwhelming win, candidate Diana Degette destroyed the election with 
-        272,892 votes which is 73.8% of the overall vote count.
->>>>>>> 96c04e528ec3dbca237cba637de13a1c06e98294
 
 
 ## Summary
